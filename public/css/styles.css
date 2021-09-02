@@ -1,0 +1,36 @@
+body {
+  background-image: url("backImage.gif");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 100%;
+}
+.heading {
+  color: white;
+  text-align: center;
+}
+.mydiv {
+  text-align: center;
+}
+.myDiv1 {
+  color: white;
+  border: 15px outset #293B5F;
+  background-color: black;
+  text-align: center;
+  height: 270px;
+  width: 450px;
+  position: fixed;
+  bottom: 10px;
+}
+.button {
+  text-align: center;
+}
+.copyright {
+  color: white;
+  position: fixed;
+  bottom: 0;
+}
+.image {
+  margin-left: 700px;
+}
